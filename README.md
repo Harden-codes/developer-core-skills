@@ -1,0 +1,2 @@
+# developer-core-skills
+Fundamental programming concepts, clean coding practices, and development principles documented with practical examples.
